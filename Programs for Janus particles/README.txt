@@ -1,0 +1,1 @@
+This folder contains the files used for investigating the structure of Janus particles.
